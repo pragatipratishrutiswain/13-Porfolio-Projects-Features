@@ -5,7 +5,7 @@
 3️⃣ Data Modeling (Star and Snowflake Schema)<br>
 4️⃣ Data Visualization<br>
 5️⃣ Report & Dashboard Creation<br>
-6️⃣ Report Sharing<br>
+6️⃣ Report Sharing (teams, web, website, slash portals, apps)<br>
 7️⃣ Setting up report refresh (Scheduled and Incremental)<br>
 8️⃣ Implementing RLS (Row Level Securiry)
 
