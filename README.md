@@ -2,7 +2,7 @@
 ## SQL + DAX | PFP
 1️⃣ Data Gathering & Integration<br>
 2️⃣ Data Cleaning & Profiling in SQL<br>
-3️⃣ Data Modeling (Star VS Snowflake)<br>
+3️⃣ Data Modeling (Star VS Snowflake Schema)<br>
 4️⃣ Data Visualization<br>
 5️⃣ Report & Dashboard Creation<br>
 6️⃣ Report Sharing<br>
