@@ -1,4 +1,4 @@
-# 13-Porfolio-Projects-PFP-Features
+# 13-Porfolio-Projects-Features
 ## SQL + DAX | PFP
 1️⃣ Data Gathering & Integration<br>
 2️⃣ Data Cleaning & Profiling in SQL<br>
