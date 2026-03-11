@@ -7,7 +7,7 @@
 - Google search bar
 - Search "espn cricinfo statsguru"
 - Select "ODI"
-- Select Batting
+- Select "Batting"
 - Team: India
 - Opposition: Australia
 - Home or away: home
