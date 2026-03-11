@@ -21,4 +21,19 @@
 - Type Detection
 - Select option 3: "Never detect column types and headers for unstructured sources."
 
+## For Web as the Data Source, Select
+- Get Data
+- Web
+- URL
+- Stay "Anonymous"
+- Click Ok
+- Select table - "Overal Figures"
+- Choose "Transform"
+
+## In Power query editor
+- Home
+- Use first row as headers
+- Remove last column (Unnecessary column)
+- Close & Apply
+
 
