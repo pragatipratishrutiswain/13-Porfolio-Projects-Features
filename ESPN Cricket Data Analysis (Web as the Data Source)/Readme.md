@@ -33,10 +33,10 @@
 - Choose "Transform"
 
 ## In Power Query editor
--- Home
--- Use first row as headers
--- Remove last column (Unnecessary column)
--- Close & Apply
+- - Home
+- - Use first row as headers
+- - Remove last column (Unnecessary column)
+- - Close & Apply
  
 # Method 2 - Incase of Multiple table
 - Add table using examples
