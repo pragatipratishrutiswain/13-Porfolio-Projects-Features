@@ -33,12 +33,12 @@
 - Choose "Transform"
 
 ## In Power Query editor
-- - Home
-- - Use first row as headers
-- - Remove last column (Unnecessary column)
-- - Close & Apply
+- Home
+- Use first row as headers
+- Remove last column (Unnecessary column)
+- Close & Apply
  
-# Method 2 - Incase of Multiple table
+# Method 2 (Better way)- Incase of Multiple table
 - Add table using examples
 - Copy the first row from the original table
 - Copy the second row from the original table
@@ -47,5 +47,8 @@
 - Transform Data
   
 ## In Power Query editor
--- 
+- Got the page-1 first 50 records. But, we need to get the entire 106 records. SO we need some M Query scripting
+- Home tab
+- Advanced editor
+-  
 
