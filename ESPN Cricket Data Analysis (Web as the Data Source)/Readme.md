@@ -3,7 +3,7 @@
 2️⃣ Use publicly available ESPN cricket data online<br>
 3️⃣ We are interested only in ODIs
 
-## Getting the data:
+## Getting the data by Web Scrapping:
 - Google search bar
 - Search "espn cricinfo statsguru"
 - Select "ODI"
