@@ -80,19 +80,19 @@
 - Cloase & Load
 
 
-Headers Meaning - 
-Player - Payer Name
-Span - first match to the last match year
-Mat - No of games played by the player
-Inns - The number of innings a player has actually batted in
-NO - No result
-RUNS - Runs scored by the player
-HS - Highest score
-AV - Batting Average
-BF - Balls Faced
-SR - Strike Rate
-100 - Century
-50 - Half century
-4s - No of 4 runs
+## Headers Meaning
+Player - Payer Name<br>
+Span - first match to the last match year<br>
+Mat - No of games played by the player<br>
+Inns - The number of innings a player has actually batted in<br>
+NO - No result<br>
+RUNS - Runs scored by the player<br>
+HS - Highest score<br>
+AV - Batting Average<br>
+BF - Balls Faced<br>
+SR - Strike Rate<br>
+100 - Century<br>
+50 - Half century<br>
+4s - No of 4 runs<br>
 6s - No of 6 runs
 
