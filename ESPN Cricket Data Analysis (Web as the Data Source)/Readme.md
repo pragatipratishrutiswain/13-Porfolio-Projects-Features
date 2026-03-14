@@ -81,18 +81,19 @@
 
 
 ## Headers Meaning
-Player - Payer Name<br>
-Span - first match to the last match year<br>
-Mat - No of games played by the player<br>
-Inns - The number of innings a player has actually batted in<br>
-NO - No result<br>
-RUNS - Runs scored by the player<br>
-HS - Highest score<br>
-AV - Batting Average<br>
-BF - Balls Faced<br>
-SR - Strike Rate<br>
-100 - Century<br>
-50 - Half century<br>
-4s - No of 4 runs<br>
-6s - No of 6 runs
+Player	-The name of the batsman whose performance state are being recorded.<br>
+Span	- The duaration of the player's career (start year - end year).<br>
+Mat	- The total number of matches the batsman has participated in.<br>
+Inns	- The total number of innings the batsman has participated in.<br>
+NO	- The total number of not-outs the batsman has been involved in.<br>
+Runs	- The total number of runs scored by the batsman in all matches.<br>
+HS	- "Highest Score: The highest number of runs runs the batsman has scored in all innings."<br>
+Ave	- Batting Average: The average number of runs the batsman has scored per dismissal (Runs/Outs).<br>
+BF	- Balls Faced: The ttotal number of balls faced by the batsman.<br>
+SR -	Strike Rate: The number of runs scored per 100 balls faced (Runs/Ball * 100).<br>
+100	- The number of centuries (100+ runs) score by the batsman.<br>
+50	- The number of half-centuries (50+ runs) score by the batsman.<br>
+0	- The number of times the batsman has been dismissed for a score zero.<br>
+4s	- The number of boundaries (4s) scored by the batsman.<br>
+6s	- The number of sixes (6s) scored by the batsman.<br>
 
