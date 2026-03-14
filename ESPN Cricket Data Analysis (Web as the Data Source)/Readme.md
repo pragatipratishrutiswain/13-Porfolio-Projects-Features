@@ -9,7 +9,7 @@
 - Select "ODI"
 - Select "Batting"
 - Team: India
-- Opposition: Australia
+- Opposition: South Africa
 - Home or away: home
 - Submit query
 
