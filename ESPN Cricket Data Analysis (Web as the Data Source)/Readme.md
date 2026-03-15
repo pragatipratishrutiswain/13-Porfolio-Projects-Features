@@ -133,7 +133,7 @@ SR - Strike Rate: The average number of balls bowled per wickettaken (Balls/Wkts
 ## Fielding Headers Meaning
 Dis - The total number of dismissals the player has been involved in (catches, stumpings).
 
-Ct - The number of catches the playter has taken in their career.
+Ct - The number of catches the player has taken in their career.
 
 St - The number of stumpings made by the player.
 
