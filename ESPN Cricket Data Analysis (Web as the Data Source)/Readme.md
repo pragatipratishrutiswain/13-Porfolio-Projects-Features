@@ -80,7 +80,7 @@ https://app.powerbi.com/view?r=eyJrIjoiODliMDQzYzUtMmQwYy00MWU0LTliZmQtMTkwM2FkY
 - Clean and format every column to data type text, decimal or whole number.
 - Rename the Appended table to Cricket Data from Append1.
 - Hide other tables (Headers & Query1) for the report view.
-- Cloase & Load
+- Close & Load
 
 
 ## Batting Headers Meaning
