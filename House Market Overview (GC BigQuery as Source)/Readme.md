@@ -23,5 +23,7 @@ Data transformation in Power Query editor:
 2. Changed the 'City' column values from 'null' to 'Unknown' using right click -> Replace values -> Find (null) -> Replace with (Unknown)
 3. Changed the 'dk_ann_inf_rate%' column values from 'null' to mode (most occuring value) by going to column profile<br>
 using right click -> Replace values -> Find (null) -> Replace with (1.85)
+4. Changed the 'yield_on_mortgage_credit_bonds%' column values from 'null' to mode (most occuring value) by going to column profile<br>
+using right click -> Replace values -> Find (null) -> Replace with (1.47)
 
 
