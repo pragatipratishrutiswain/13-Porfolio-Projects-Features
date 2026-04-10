@@ -20,5 +20,8 @@ Data transformation in Power Query editor:
 
 ![WhatsApp Image 2026-04-07 at 12 44 18](https://github.com/user-attachments/assets/8105acfd-df09-4650-b92e-345721c451e3)
 
-2. Changing the 'City' column values from 'null' to 'Unknown' using right click -> Replace values -> Find (null) -> Replace with (Unknown)
+2. Changed the 'City' column values from 'null' to 'Unknown' using right click -> Replace values -> Find (null) -> Replace with (Unknown)
+3. Changed the 'dk_ann_inf_rate%' column values from 'null' to mode (most occuring value) by going to column profile<br>
+using right click -> Replace values -> Find (null) -> Replace with (1.85)
+
 
