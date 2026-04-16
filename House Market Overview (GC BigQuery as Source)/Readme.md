@@ -1,4 +1,5 @@
 # Link to the Dashboard
+https://app.powerbi.com/view?r=eyJrIjoiMDVmNGU0MzctOTcyNy00YzliLTk3N2UtM2FmODE2MjcxMmJmIiwidCI6IjQ3NzMxNGM0LWQwYjMtNDJiZC05ODU1LWU1ZDUyYmY2YTFhYSJ9&pageName=1c0df1319c4dced32371
 
 ## Broad Steps Involved
 1️⃣ Creating a free Google cloud account<br>
